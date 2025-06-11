@@ -1,0 +1,2 @@
+# UniversityManagemnetsystem
+Problem Statement: Managing the administrative and academic operations of a university is a complex task involving thousands of students, instructors, departments, and courses. Without an integrated system, maintaining real-time information, tracking enrollments, and ensuring efficient academic planning can be challenging. Manual processes lead to data inconsistencies, delays, and operational inefficiencies.
